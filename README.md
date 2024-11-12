@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-an-8-Bit-Multiplexer-Using-Cadence-EDA-Tools
+![Screenshot (87)](https://github.com/user-attachments/assets/b2483e1d-9ed8-4fc3-af80-cc1f38691457)# Design-and-Implementation-of-an-8-Bit-Multiplexer-Using-Cadence-EDA-Tools
 ## Aim:
   To design and implement an 8-bit multiplexer circuit using Cadence EDA tools, simulate its functionality, and understand its role in digital logic circuits.
 ## Tools Required:
@@ -38,6 +38,13 @@ Adding Components
       + Multiplexer logic gates (e.g., AND, OR, NOT) to construct the MUX logic.
       + Input and Output pins to represent the 8-bit inputs and outputs.
   - Make connections between the components using the wire tool.
+    
+![Screenshot (86)](https://github.com/user-attachments/assets/a1007542-65de-4536-8378-4d91e0ec04f4)
+
+![Screenshot (87)](https://github.com/user-attachments/assets/3d9bee47-979c-4bb1-8d4c-c6be5633cd56)
+
+![Screenshot (85)](https://github.com/user-attachments/assets/0048f4fc-0c32-4819-8509-1fed458ac923)
+
 
 3. Creating a Symbol for the 8-Bit MUX Schematic
 
@@ -45,6 +52,8 @@ Adding Components
    - Ensure Lib Name, Cell Name, and From View are set to your schematic cell.
    - Click OK to open the Symbol Generation form.
    - Customize the symbol if desired.
+
+![image](https://github.com/user-attachments/assets/e5a1c977-82d7-4df3-94a4-cee3a13f3d84)
 
 4. Creating the Test Bench for the 8-Bit MUX
 
@@ -58,7 +67,9 @@ Adding Components
        + Connect appropriate inputs, including an 8-bit data bus and control signals.
        + Set up input pins to simulate different input combinations.
    - Simulation and Testing
-     
+
+![Screenshot (83)](https://github.com/user-attachments/assets/4048865f-ba0a-4b7a-9b72-b33d0dffbbb8)
+
 ### Analog Simulation by Spectre
 
    - In the test cell view, go to Launch > ADE L (Analog Design Environment).
@@ -73,11 +84,19 @@ Adding Components
 
    - Run the simulation by choosing Simulation > Netlist and Run.
 
+![Screenshot (84)](https://github.com/user-attachments/assets/c3a2d34c-d4eb-4b92-8cb5-2c77d8fffc03)
+
 ### Transient Analysis
 
    - In ADE L, set the Analysis to Transient.
    - Define the start and stop times for the transient analysis.
    - Run the simulation to observe the output waveforms and verify the MUX operation.
+
+![Screenshot (91)](https://github.com/user-attachments/assets/ed32ea7f-0897-475f-956e-32b4c36d7916)
+
+![Screenshot (82)](https://github.com/user-attachments/assets/3fe2242f-0fee-4700-a6b3-75de9cac654a)
+
+![Screenshot (81)](https://github.com/user-attachments/assets/b90c8903-5c2a-438e-97c3-c08e60dc46e9)
 
 ### Results:
 
