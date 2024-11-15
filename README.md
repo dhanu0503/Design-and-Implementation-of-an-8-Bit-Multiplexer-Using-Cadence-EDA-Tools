@@ -1,4 +1,3 @@
-![Screenshot (87)](https://github.com/user-attachments/assets/b2483e1d-9ed8-4fc3-af80-cc1f38691457)# Design-and-Implementation-of-an-8-Bit-Multiplexer-Using-Cadence-EDA-Tools
 ## Aim:
   To design and implement an 8-bit multiplexer circuit using Cadence EDA tools, simulate its functionality, and understand its role in digital logic circuits.
 ## Tools Required:
