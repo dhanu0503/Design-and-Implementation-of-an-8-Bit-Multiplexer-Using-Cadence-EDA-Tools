@@ -1,7 +1,9 @@
 ## Design & Implementation-Of-Full-Custom-8-1-Multiplexer-Using-Cadence-EDA-Tools
 
 ### Abstract:
-&emsp;&emsp;This project focuses on the design and simulation of an 8x1 multiplexer (MUX) implemented using basic logic gates (AND, OR, and NOT gates) in Cadence Virtuoso. An 8x1 MUX allows one of eight input signals to be selected and passed to the output based on the values of three select lines. The design was created using a combination of AND gates to select inputs, OR gates to combine the selected signals, and NOT gates to invert select lines as needed. The functionality of the MUX was verified through schematic simulations, and the design successfully meets the required performance and logical correctness.
+&emsp;&emsp;This project focuses on the design and simulation of an 8x1 multiplexer (MUX) implemented using basic logic gates (AND, OR, and NOT gates) in Cadence Virtuoso. An 8x1 MUX allows one of eight input signals to be selected and passed to the output based on the values of three select lines. 
+<br>
+&emsp;&emsp;The design was created using a combination of AND gates to select inputs, OR gates to combine the selected signals, and NOT gates to invert select lines as needed. The functionality of the MUX was verified through schematic simulations, and the design successfully meets the required performance and logical correctness.
 
 ### Tools Required:
 
