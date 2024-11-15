@@ -42,6 +42,11 @@ Adding Components
 
 ![Screenshot (87)](https://github.com/user-attachments/assets/3d9bee47-979c-4bb1-8d4c-c6be5633cd56)
 
+<br>
+<br>
+<br>
+<br>
+
 ![Screenshot (85)](https://github.com/user-attachments/assets/0048f4fc-0c32-4819-8509-1fed458ac923)
 
 
@@ -53,6 +58,11 @@ Adding Components
    - Customize the symbol if desired.
 
 ![image](https://github.com/user-attachments/assets/e5a1c977-82d7-4df3-94a4-cee3a13f3d84)
+
+<br>
+<br>
+<br>
+<br>
 
 4. Creating the Test Bench for the 8-Bit MUX
 
