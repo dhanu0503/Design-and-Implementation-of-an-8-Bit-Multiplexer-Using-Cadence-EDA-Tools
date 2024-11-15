@@ -91,7 +91,6 @@ Adding Components
 
 <br>
 <br>
-<br>
 
    - For output plotting:
        + Choose Outputs > To be Plotted > Select on Schematic.
