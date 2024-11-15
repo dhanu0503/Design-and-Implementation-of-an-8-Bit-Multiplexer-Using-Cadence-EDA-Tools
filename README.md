@@ -109,9 +109,14 @@ Adding Components
 
 ![Screenshot (91)](https://github.com/user-attachments/assets/ed32ea7f-0897-475f-956e-32b4c36d7916)
 
+<br>
+<br>
+
 ![Screenshot (82)](https://github.com/user-attachments/assets/3fe2242f-0fee-4700-a6b3-75de9cac654a)
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/b90c8903-5c2a-438e-97c3-c08e60dc46e9)
+
+<br>
 
 ### Results:
 
