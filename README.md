@@ -176,6 +176,4 @@ Adding Components
 
 &emsp;&emsp;The design and simulation of the 8x1 multiplexer using basic logic gates (AND, OR, NOT) in Cadence Virtuoso was successfully completed. The MUX correctly selects one of eight inputs based on three control lines, with the circuit performing as expected in simulations. 
 
-<br>
-
 &emsp;&emsp;This design demonstrates a simple yet efficient method for routing digital signals, suitable for applications in data selection, control systems, and communication networks. Future work can focus on optimizing the design for power and speed, or scaling it to larger multiplexers for more complex systems.
