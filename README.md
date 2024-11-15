@@ -10,7 +10,7 @@
 
 ### Circuit Diagram:
 
-![image](https://github.com/user-attachments/assets/a468545a-a3ae-455b-866a-a2def51ae6b5)
+![12309_Physics_62bde2fe5dc6884a9d888dcd_EL_Logic_Gates-22_063888 jpg_img_upload_solution_2022-09-17 13_28_22 111054](https://github.com/user-attachments/assets/a360aa1e-bbcb-4754-bfb5-6dec858352ba)
 
 <br>
 <br>
