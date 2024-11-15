@@ -1,11 +1,12 @@
-## Aim:
-  To design and implement an 8-bit multiplexer circuit using Cadence EDA tools, simulate its functionality, and understand its role in digital logic circuits.
-## Tools Required:
+## Design & Implementation-Of-Full-Custom-8-1-Multiplexer-Using-Cadence-EDA-Tools
+### Aim:
+&emsp;&emsp;To design and implement an 8-bit multiplexer circuit using Cadence EDA tools, simulate its functionality, and understand its role in digital logic circuits.
+### Tools Required:
   + Personal Computer
   + Cadence Virtuoso Software
 
-## Schematic Simulation:
-### Commands to Open Cadence:
+### Schematic Simulation:
+#### Commands to Open Cadence:
 
   - Right-click and open the terminal window.
   - Enter the following commands:
@@ -13,7 +14,7 @@
       + source /cadence/install/cshrc
       + virtuoso
 
-### Steps for Creating an 8-Bit Multiplexer (MUX)
+#### Steps for Creating an 8-Bit Multiplexer (MUX)
 1. Creating a New Library
 
    + Go to the main Virtuoso window (CIW).
@@ -99,4 +100,4 @@ Adding Components
 
 ### Results:
 
-The 8-bit multiplexer was successfully implemented using Cadence tools. Simulation results confirmed the correct functionality of the multiplexer for different input selections, allowing the desired 8-bit input to be routed to the output based on the control signals.
+&emsp;&emsp;The 8-bit multiplexer was successfully implemented using Cadence tools. Simulation results confirmed the correct functionality of the multiplexer for different input selections, allowing the desired 8-bit input to be routed to the output based on the control signals.
