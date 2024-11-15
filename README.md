@@ -118,10 +118,6 @@ Adding Components
    - In ADE L:
        + Go to Setup > Simulation/Directory/Host, select Spectre as the simulator, and click OK.
        + Select Analysis > Choose, then select Transient or DC Analysis to define the simulation parameters.
-
-<br>
-<br>
-
    - For output plotting:
        + Choose Outputs > To be Plotted > Select on Schematic.
        + Select the MUX output pin to observe the final output waveform.
