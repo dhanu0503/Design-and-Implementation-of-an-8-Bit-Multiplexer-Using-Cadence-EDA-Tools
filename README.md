@@ -5,8 +5,7 @@
   + Personal Computer
   + Cadence Virtuoso Software
 
-### Schematic Simulation:
-#### Commands to Open Cadence:
+### Schematic Simulation: ( Commands to Open Cadence )
 
   - Right-click and open the terminal window.
   - Enter the following commands:
