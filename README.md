@@ -19,18 +19,8 @@
 #### Key Components:
 
   + Inputs (I0 to I7): These are the eight data inputs, from which one will be selected based on the state of the select lines.
-  + Select Lines (S0, S1, S2): Three select lines determine which input (I0 to I7) is connected to the output. The binary combination of the select lines corresponds to one of the eight inputs:
-    
-        000 → I0
-        001 → I1
-        010 → I2
-        011 → I3
-        100 → I4
-        101 → I5
-        110 → I6
-        111 → I7
-    
-   + Output (Y): The output carries the value of the selected input.
+  + Select Lines (S0, S1, S2): Three select lines determine which input (I0 to I7) is connected to the output. The binary combination of the select lines corresponds to one of the eight inputs
+  + Output (Y): The output carries the value of the selected input.
 
 #### Gate-level Implementation:
 
