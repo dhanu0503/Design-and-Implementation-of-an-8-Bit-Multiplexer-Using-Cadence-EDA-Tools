@@ -159,6 +159,7 @@ Adding Components
 <br>
 <br>
 <br>
+<br>
 
 ### Application:
 
@@ -169,7 +170,12 @@ Adding Components
   5) **Signal Switching:** MUXes are used in switching applications where the need exists to select one signal from many, such as in audio processing or video signal routing.
   6) **Test and Debugging:** MUXes can also be used in testing and debugging systems to isolate and route signals to a specific output.
 
+<br>
 
 ### Conclusion:
 
-&emsp;&emsp;The design and simulation of the 8x1 multiplexer using basic logic gates (AND, OR, NOT) in Cadence Virtuoso was successfully completed. The MUX correctly selects one of eight inputs based on three control lines, with the circuit performing as expected in simulations. This design demonstrates a simple yet efficient method for routing digital signals, suitable for applications in data selection, control systems, and communication networks. Future work can focus on optimizing the design for power and speed, or scaling it to larger multiplexers for more complex systems.
+&emsp;&emsp;The design and simulation of the 8x1 multiplexer using basic logic gates (AND, OR, NOT) in Cadence Virtuoso was successfully completed. The MUX correctly selects one of eight inputs based on three control lines, with the circuit performing as expected in simulations. 
+
+<br>
+
+&emsp;&emsp;This design demonstrates a simple yet efficient method for routing digital signals, suitable for applications in data selection, control systems, and communication networks. Future work can focus on optimizing the design for power and speed, or scaling it to larger multiplexers for more complex systems.
