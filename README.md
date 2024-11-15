@@ -14,6 +14,7 @@
 
 <br>
 <br>
+
 ### Circuit Description:
 
 &emsp;&emsp;The 8x1 multiplexer uses basic logic gates to implement the selection of one of eight input signals based on three control (select) lines. Here’s how the design works:
