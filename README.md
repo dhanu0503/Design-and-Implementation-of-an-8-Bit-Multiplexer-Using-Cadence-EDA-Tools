@@ -150,6 +150,12 @@ Adding Components
 ![Screenshot (81)](https://github.com/user-attachments/assets/b90c8903-5c2a-438e-97c3-c08e60dc46e9)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Application:
 
