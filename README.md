@@ -63,6 +63,8 @@ Adding Components
 <br>
 <br>
 <br>
+<br>
+<br>
 
 4. Creating the Test Bench for the 8-Bit MUX
 
@@ -86,6 +88,10 @@ Adding Components
    - In ADE L:
        + Go to Setup > Simulation/Directory/Host, select Spectre as the simulator, and click OK.
        + Select Analysis > Choose, then select Transient or DC Analysis to define the simulation parameters.
+
+<br>
+<br>
+<br>
 
    - For output plotting:
        + Choose Outputs > To be Plotted > Select on Schematic.
