@@ -138,18 +138,20 @@ Adding Components
 <br>
 <br>
 <br>
+<br>
 
 ### Output Results:
 
 ![Screenshot (82)](https://github.com/user-attachments/assets/3fe2242f-0fee-4700-a6b3-75de9cac654a)
+
+<br>
+<br>
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/b90c8903-5c2a-438e-97c3-c08e60dc46e9)
 
 <br>
 
 ### Application:
-
-The 8x1 multiplexer designed using logic gates has a wide range of applications:
 
   1) **Data Routing in Digital Systems:** MUXes are used to select and route data in digital circuits and systems, including microprocessors and FPGAs.
   2) **Control Systems:** The MUX can be used to select between different control lines or sensor inputs, especially in embedded systems.
